@@ -31,7 +31,7 @@ The client-side code is directly built into and served from the `server` directo
 
 As for now, [elm] shows the [best][blazing-fast-1] [performance][blazing-fast-2] as a tool for SPA. Also, the strong
 type system of the language makes it suitable for the fast development by a small team, which can't afford a lot of
-[person-hour]\(!["production" icon from Civilization V](img/production.png)) being spent on debugging.
+[person-hour] \(!["production" icon from Civilization V](img/production.svg)\) being spent on debugging.
 
 [yarn] is a package manager which is better than [npm] in almost every way. Above all, it supports the concept of
 [lock file], so we can avoid a build failure caused by other library author's mistake.
